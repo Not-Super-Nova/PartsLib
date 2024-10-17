@@ -3,7 +3,8 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(property "Reference" "REF**"
+	(descr "2.4 GHz IEEE Std. 802.15.4™\nRF Transceiver Module")
+	(property "Reference" "A**"
 		(at 0 4.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
@@ -40,7 +41,7 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MRF24J40MA-Data-Sheet-70000329C.pdf"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -53,7 +54,7 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "2.4 GHz IEEE Std. 802.15.4™ RF Transceiver Module"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")

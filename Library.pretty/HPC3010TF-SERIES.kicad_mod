@@ -41,7 +41,7 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "https://www.tai-tech.com.tw/pdf/284793/HPC3010TF-SERIES.pdf"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -54,7 +54,7 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "SMD Low Profile Power Inductor"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")

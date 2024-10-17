@@ -3,7 +3,8 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(property "Reference" "REF**"
+	(descr "50mA 6mm 100MΩ 100,000 Times 12V 250gf 6mm 4.5mm Round Button Standing paste SPST SMD Tactile Switches ROHS")
+	(property "Reference" "SW**"
 		(at 0 -4 0)
 		(unlocked yes)
 		(layer "F.SilkS")
@@ -40,7 +41,7 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "https://www.lcsc.com/datasheet/lcsc_datasheet_2212271430_hanxia-HX-TS6645TP-250gf-009_C5340120.pdf"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -53,7 +54,7 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "50mA 6mm 100MΩ 100,000 Times 12V 250gf 6mm 4.5mm Round Button Standing paste SPST SMD Tactile Switches ROHS"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")

@@ -3,7 +3,9 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(property "Reference" "REF**"
+	(descr "Alps Alpine Tactile Switch")
+	(tags "Switch, Button, Tactile")
+	(property "Reference" "SW**"
 		(at 0 -3 0)
 		(unlocked yes)
 		(layer "F.SilkS")
@@ -40,7 +42,7 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "https://eu.mouser.com/datasheet/2/15/SKQY-1370659.pdf"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -53,7 +55,7 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "Alps Alpine Tactile Switch"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")

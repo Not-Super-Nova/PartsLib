@@ -22,7 +22,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:MRF24J40MA"
 			(at 0 0 0)
 			(effects
 				(font
@@ -31,7 +31,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://ww1.microchip.com/downloads/en/DeviceDoc/MRF24J40MA-Data-Sheet-70000329C.pdf"
 			(at 0 0 0)
 			(effects
 				(font
@@ -40,7 +40,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.4 GHz IEEE Std. 802.15.4™ RF Transceiver Module"
+			(at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "RF, Transceiver, Module, Zigbee"
 			(at 0 0 0)
 			(effects
 				(font
@@ -310,7 +319,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stbb1-axx.pdf"
 			(at -6.35 12.7 0)
 			(effects
 				(font
@@ -319,8 +328,17 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "High efficiency single inductor dual mode buck-boost DC-DC converter with 2.3 A switches peak current"
 			(at -6.35 12.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "ki_keywords" "Buck-Boost, Buck, Boost, DC-DC"
+			(at 0 0 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -562,7 +580,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:STTS751"
 			(at -5.08 12.7 0)
 			(effects
 				(font
@@ -571,7 +589,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.st.com/resource/en/datasheet/stts751.pdf"
 			(at -5.08 12.7 0)
 			(effects
 				(font
@@ -580,7 +598,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "2.25 V low-voltage local digital temperature sensor"
 			(at -5.08 12.7 0)
 			(effects
 				(font

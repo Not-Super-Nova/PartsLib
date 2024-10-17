@@ -3,7 +3,9 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(property "Reference" "REF**"
+	(descr "Power Inductor")
+	(tags "Inductor")
+	(property "Reference" "L**"
 		(at 0 -2.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
@@ -40,7 +42,7 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "https://wmsc.lcsc.com/wmsc/upload/file/pdf/v2/lcsc/2304140030_YUXIN-TECH-YXNAQ252012-4R7M_C241477.pdf"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -53,7 +55,7 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "Power Inductor"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")

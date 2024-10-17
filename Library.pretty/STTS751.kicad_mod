@@ -3,7 +3,9 @@
 	(generator "pcbnew")
 	(generator_version "8.0")
 	(layer "F.Cu")
-	(property "Reference" "REF**"
+	(descr "2.25 V low-voltage local digital temperature sensor")
+	(tags "Temperature, Temp, Humidity, Sensor")
+	(property "Reference" "U**"
 		(at 0 -2.5 0)
 		(unlocked yes)
 		(layer "F.SilkS")
@@ -40,7 +42,7 @@
 			)
 		)
 	)
-	(property "Datasheet" ""
+	(property "Datasheet" "https://www.st.com/resource/en/datasheet/stts751.pdf"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
@@ -53,7 +55,7 @@
 			)
 		)
 	)
-	(property "Description" ""
+	(property "Description" "2.25 V low-voltage local digital temperature sensor"
 		(at 0 0 0)
 		(unlocked yes)
 		(layer "F.Fab")
